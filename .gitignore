@@ -2,3 +2,5 @@
 .idea/
 
 *.pyc
+
+rust_crash/target
