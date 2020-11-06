@@ -4,3 +4,4 @@
 *.pyc
 
 rust_crash/target
+/**/*.log
