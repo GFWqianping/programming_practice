@@ -1,2 +1,7 @@
 .venv/
 .idea/
+
+*.pyc
+
+rust_crash/target
+/**/*.log
